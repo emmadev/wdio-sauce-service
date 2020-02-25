@@ -37,7 +37,7 @@
   },
   "homepage": "https://github.com/webdriverio/wdio-sauce-service#readme",
   "dependencies": {
-    "request": "2.81.0",
+    "request": "2.88.2",
     "sauce-connect-launcher": "1.2.2"
   },
   "devDependencies": {
